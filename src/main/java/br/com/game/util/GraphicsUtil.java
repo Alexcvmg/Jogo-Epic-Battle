@@ -11,7 +11,7 @@ public class GraphicsUtil {
     }
     public static void getBoasVindas(){
         System.out.println("=============================");
-        System.out.println("Bem vindo ao Batalha Medieval");
+        System.out.println("Bem vindo ao Batalha Épica");
         System.out.println("=============================");
         System.out.println("Digite Seu nickname:");
     }
